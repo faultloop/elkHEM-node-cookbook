@@ -1,4 +1,3 @@
 # elkhem-node
 
-TODO: Enter the cookbook description here.
-
+Build ElkHEM Node
